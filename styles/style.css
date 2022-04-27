@@ -1,0 +1,46 @@
+body{
+	background-color: #c5c6d0 !important;
+}
+
+
+* {
+	font-family: 'Ubuntu', sans-serif !important;
+	font-size: 17px;
+	color: #A45A52;
+}
+
+div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5;
+  padding-left: 5;
+}
+
+nav {
+	padding-left: -5px;
+}
+
+img{
+	width: 300px;
+}
+
+p {
+	font-weight: bold;
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  border-width: 50%;
+  background-color: #49494B;
+  border-style: double;
+  border-color: red;
+}
+
+
+
+
+
+
+
+
