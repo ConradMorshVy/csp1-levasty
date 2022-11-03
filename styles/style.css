@@ -1,61 +1,57 @@
-
-
-body{
-	background-color: #c5c6d0 !important;
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-image: url(../images/background.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
-
-* {
-	font-family: 'Ubuntu', sans-serif !important;
-	font-size: 17px;
-	color: #14303D;
+.card {
+	margin: 10px;
+	background-color: lightsteelblue;
 
 }
 
-div {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5;
-  padding-left: 5;
+.card-title {
+	margin-top: 20px;
+	color: white;
 }
 
-nav {
-	padding-left: -5px;
+.navbar {
+	align-content: center;
+	background-color: peachpuff;
 }
 
-img{
-	width: 300px;
-	border-radius: 5%;
+form {
+	margin: 10px;
+	color: white;
+	padding: 30px;
+	text-align: center;
+	background-color: thistle;
 }
 
-p {
-	font-weight: bold;
+.form-label,.form-control {
+	margin-top: 10 px;
+	margin-bottom: 10px;
 }
 
-h2 {
-  text-transform: uppercase;
-  text-align: center;
-  border-width: auto;
-  background: #1CA9C9;
-  border-style: groove;
-  border-color: #FF8A8A;
-  border-radius: 10%;
+.btn {
+	margin-top: 10px;
+	color: white;
+	background-color: powderblue;
+	width: 200px;
 }
 
-label {
-	font-weight: bold;
+.btn-2 {
+	margin-top: 10px;
+	color: white;
+	background-color: darkgrey;
+	width: 200px;
 }
 
-.mx-auto {
-	margin: auto;
-}
-
-.pacific-color {
-	background-color: #1CA9C9 !important;
-}
-
-.linen-color {
-	color: #FAF0E6 !important;
+.me-img {
+	border-radius: 50%;
 }
 
 
